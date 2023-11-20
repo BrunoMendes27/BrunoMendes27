@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently taking a internship at Stratio Automotive<br>🌱 I’m currently learning Angular, HTML, CSS/SASS<br>💬 Ask me about TV shows and sneakers
+🔭 Frontend Developer @ Stratio Automotive<br>🌱 Angular, HTML, CSS/SASS, Jest, Typescript, NgRx, RxJs<br>💬 Ask me about TV shows and sneakers
 
 
 ## 🌐 Socials:
