@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Frontend Developer @ Stratio Automotive<br>🌱 Angular, HTML, CSS/SASS, Jest, Typescript, NgRx, RxJs<br>💬 Ask me about TV shows and sneakers
+🔭 Frontend Engineer @ VTXRM<br>🌱 Angular, HTML, CSS/SASS, Jest, Typescript, NgRx, RxJs<br>💬 Ask me about TV shows and sneakers
 
 
 ## 🌐 Socials:
